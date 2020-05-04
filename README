@@ -1,0 +1,4 @@
+First run the following command:
+	npm install --save electron
+To run the app:
+	npm start
